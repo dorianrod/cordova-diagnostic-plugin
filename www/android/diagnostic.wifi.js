@@ -14,7 +14,7 @@ var Diagnostic_Wifi = (function(){
      *********************/
     var Diagnostic_Wifi = {};
 
-    var Diagnostic = require("cordova.plugins.diagnostic.Diagnostic");
+    var Diagnostic = require("./diagnostic");
 
     /********************
      *

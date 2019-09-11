@@ -14,7 +14,7 @@ var Diagnostic_Location = (function(){
      *********************/
     var Diagnostic_Location = {};
 
-    var Diagnostic = require("cordova.plugins.diagnostic.Diagnostic");
+    var Diagnostic = require("./diagnostic");
 
     /********************
      *
